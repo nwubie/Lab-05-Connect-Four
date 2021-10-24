@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class ConnectFour {
     public static void main(String[] args)
     {
+        // Lab 6
         Scanner sc = new Scanner(System.in);
         char chipType;
         int row;
